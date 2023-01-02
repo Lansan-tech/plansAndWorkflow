@@ -3,11 +3,11 @@
 An Application to Link rental managers to tentants. 
 
 ##  System Objectives
-The systmes aims at linking magar to tenet through a web application.
+The system aims at linking managers to tenants through a web application.
 
-###
+##
 Rentals features
-User types
+### User types
 - [x] Landlord
 - [x] Agent
 - [x] Tenant
@@ -23,11 +23,11 @@ Landlord
 - [ ] Get notified when invoices are sent out to clients
 - [ ] Register tenants with complete KYC
 - [ ] Get notification on tenant on-boarding/leaving/lease expiry
-- [ ] Capture all utility bills
+- [x] Capture all utility bills
 - [x] Bill and invoice automation
 - [ ] Receive payments via M-pesa, bank, cheque, cash etc
 - [ ] Reconcile payments
-- [ ] View all financial reports and tenants statements
+- [x] View all financial reports and tenants statements
 - [ ] View tenants supports tickets about bills, security, maintenance etc
 - [ ] Manage tenant leases
 - [ ] Print hard copies for filing if needed
@@ -39,13 +39,13 @@ Agents
 - [ ] Register all your properties
 - [ ] Register tenant with complete KYC
 - [ ] Notification to landlord on tenant on-boarding/leaving/lease expiry
-- [ ] Capture all utility bill
+- [x] Capture all utility bill
 - [x] Bill and invoice automation
 - [ ] Receive payments via M-pesa, bank, cheque, cash etc
 - [ ] Reconcile payments
-- [ ] view all financial reports and tenants statements
+- [x] view all financial reports and tenants statements
 - [ ] View tenants supports tickets about bills, security, maintenance etc
-- [ ] Print hard copies for filing when needed
+- [x] Print hard copies for filing when needed
 - [ ] Manage tenant leases
 - [ ] Commission statements and reports
 - [ ] Simple and intuitive application
