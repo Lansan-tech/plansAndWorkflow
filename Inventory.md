@@ -8,4 +8,4 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Go through the full app as is and correct any concerns of code quality.
   - [ ] Structure the database to handle reports (sale and payment raports)
   - [ ] Fix recipt error for not number when quaantiy not provided alaways default to 1
-  - [ ] 
+  - [ ] Change the navigator both Mobile and Desktop.
