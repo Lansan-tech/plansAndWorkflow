@@ -10,3 +10,9 @@ The system manager and keeps track of Inventory with the aspects.
   - [x] Fix recipt error for not number when quaantiy not provided alaways default to 1
   - [ ] Change the navigator both Mobile and Desktop.
   - [x] Provide Sale table with fasilites to chagng price.
+
+`(04/01/2023)`
+  - [x] Create the save feature for frontend
+  - [x] Restructre server side sale feaure t handle manay to many replationship
+  - [x] Change rentals application to nestjs backend 
+  - [ ] Change nest backend to graphql
