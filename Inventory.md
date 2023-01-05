@@ -15,4 +15,12 @@ The system manager and keeps track of Inventory with the aspects.
   - [x] Create the save feature for frontend
   - [x] Restructre server side sale feaure t handle manay to many replationship
   - [x] Change rentals application to nestjs backend 
-  - [ ] Change nest backend to graphql
+  - [ ] Change nest backend to graphql rentals
+
+`(05/01/2023)`
+  - [ ] After a complete sale respond back to the user
+  - [x] Allow removel of item from sale list
+  - [ ] Allow cancel of sale = (Clear all current products in the sale)
+  - [ ] Impliment payment feature to allow making payments (frontend -> backend)
+  - [ ] Adjust sale table to show product price not selling price uner products column
+  - [ ] Change create new Product to handle images.
