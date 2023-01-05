@@ -18,7 +18,7 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Change nest backend to graphql rentals
 
 `(05/01/2023)`
-  - [ ] After a complete sale respond back to the user
+  - [x] After a complete sale respond back to the user
   - [x] Allow removel of item from sale list
   - [x] Allow cancel of sale = (Clear all current products in the sale)
   - [ ] Impliment payment feature to allow making payments (frontend -> backend)
