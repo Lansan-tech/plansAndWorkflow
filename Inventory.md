@@ -24,3 +24,4 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Impliment payment feature to allow making payments (frontend -> backend)
   - [ ] Adjust sale table to show product price not selling price uner products column
   - [ ] Change create new Product to handle images.
+  - [ ] Convert Date to proper fomat on display
