@@ -28,4 +28,4 @@ The system manager and keeps track of Inventory with the aspects.
 
 `(06/01/2023)`
   - [ ] Work on the product page Ui.
-  - [ ] 
+  - [ ] Understand React-query Mutation life cyle for better user responses after mutation.
