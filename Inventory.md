@@ -15,7 +15,7 @@ The system manager and keeps track of Inventory with the aspects.
   - [x] Create the save feature for frontend
   - [x] Restructre server side sale feaure t handle manay to many replationship
   - [x] Change rentals application to nestjs backend 
-  - [ ] Change nest backend to graphql rentals
+  - [x] Change nest backend to graphql rentals
 
 `(05/01/2023)`
   - [x] After a complete sale respond back to the user
@@ -29,3 +29,6 @@ The system manager and keeps track of Inventory with the aspects.
 `(06/01/2023)`
   - [ ] Work on the product page Ui.
   - [ ] Understand React-query Mutation life cyle for better user responses after mutation.
+
+`(09/01/2023)`
+  - [ ] Add form validation to all form (understand react-hook-form better)
