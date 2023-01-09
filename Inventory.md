@@ -31,4 +31,4 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Understand React-query Mutation life cyle for better user responses after mutation.
 
 `(09/01/2023)`
-  - [ ] Add form validation to all form (understand react-hook-form better)
+  - [x] Add form validation to all form (understand react-hook-form better)
