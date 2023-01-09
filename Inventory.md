@@ -33,3 +33,4 @@ The system manager and keeps track of Inventory with the aspects.
 `(09/01/2023)`
   - [x] Add form validation to all form (understand react-hook-form better)
   - [ ] Implement  the reset form product form once done.
+  - [ ] Make form validation robust and accurate. with proper response to user.
