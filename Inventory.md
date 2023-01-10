@@ -34,3 +34,6 @@ The system manager and keeps track of Inventory with the aspects.
   - [x] Add form validation to all form (understand react-hook-form better)
   - [ ] Implement  the reset form product form once done.
   - [ ] Make form validation robust and accurate. with proper response to user.
+
+`(10/01/2023)`
+  - [ ] Change to flutter a primary mobile language for frontend.
