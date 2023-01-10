@@ -42,3 +42,4 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Intergarte mpesa payment
   - [ ] Cancel or reject failed sales
   - [ ] Update the sale index page with summary data
+  - [ ] Check geven amount not to be less than amount to pay and vis vasa
