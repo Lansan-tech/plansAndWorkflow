@@ -38,3 +38,4 @@ The system manager and keeps track of Inventory with the aspects.
 `(10/01/2023)`
   - [ ] Change to flutter a primary mobile language for frontend.
   - [ ] Learn and impliment a simple app in flutter.
+  - [ ] Add pagination to tables with long list
