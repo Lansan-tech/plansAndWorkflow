@@ -36,7 +36,7 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Make form validation robust and accurate. with proper response to user.
 
 `(10/01/2023)`
-  - [ ] Change to flutter a primary mobile language for frontend.
+  - [x] Change to flutter a primary mobile language for frontend.
   - [ ] Learn and impliment a simple app in flutter.
   - [ ] Add pagination to tables with long list
   - [ ] Intergarte mpesa payment
