@@ -45,3 +45,7 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Check geven amount not to be less than amount to pay and vis vasa
   - [ ] Start working on the inventory app
   - [ ] Update Paged interfaces to accept paginations 
+
+`(16/01/2023)`
+  - [ ] Add Dashboard route to backend.
+  - [ ] 
