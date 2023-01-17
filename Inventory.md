@@ -47,6 +47,6 @@ The system manager and keeps track of Inventory with the aspects.
   - [ ] Update Paged interfaces to accept paginations 
 
 `(16/01/2023)`
-  - [ ] Add Dashboard route to backend.
+  - [x] Add Dashboard route to backend.
   - [ ] Style the avator and dropdwon list.
   - [ ] Work on the dashboard route to provided the needed data.
