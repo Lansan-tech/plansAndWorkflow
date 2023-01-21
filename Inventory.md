@@ -50,3 +50,9 @@ The system manager and keeps track of Inventory with the aspects.
   - [x] Add Dashboard route to backend.
   - [ ] Style the avator and dropdwon list.
   - [ ] Work on the dashboard route to provided the needed data.
+
+`21/01/2023`
+  - [ ] Research on font for dashbaords
+  - [ ] Define the graph with realtime data and axis meanings.
+  - [ ] Build the different web page with in the inventory app.
+  - [ ] 
