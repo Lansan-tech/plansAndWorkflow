@@ -1,4 +1,5 @@
 # LAnsan Tech
 
 ## Daily Tasks
-  - [ ] Reasearch on React Native -> (Habert Rogena)
+  - [x] Reasearch on React Native -> (Habert Rogena)
+  - [ ] MOve all lansan repos to the dedicated repo for lansan.
