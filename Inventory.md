@@ -3,20 +3,22 @@ The system manager and keeps track of Inventory with the aspects.
 
 ## Feature
 ### User types 
- - [ ] Manager
- - [ ] Sales Personal/Cashier
+ - [ ] 1. Manager
+ - [ ] 1. Sales Personal/Cashier
 
 ### General Feature
-  - [ ] Login and Authentication
-  - [ ] Registration 
+  - [ ] 1. Login and Authentication
 
 ## Dedicated Features
 ### Manager
-   - Report View and Analysis
+   - [ ] 4. Report View and Analysis
+   - [ ] 3. Stock Taking and management 
    
 ### Cashier
-   - [ ] Stock Taking
-   - [ ] Sales Manager
-   - [ ] Receipt Printing
-   - [ ] Asset Management 
-   - [ ] Invoice Management 
+   - [ ] 1. Working simple intuative system
+   - [ ] 1. Register Product for sale
+   - [ ] 1. Point of sale 
+   - [ ] 2. Report generation based on sales and inventory
+   - [ ] 1. Print receipt
+   - [ ] 2  Sales Manager
+   - [ ] 3. Invoice Management 
