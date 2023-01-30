@@ -28,11 +28,11 @@ Landlord
 - [ ] 5. Receive payments via M-pesa, bank, cheque, cash etc
 - [ ] 5. Reconcile payments
 - [x] 5. View all financial reports and tenants statements
-- [ ] 1. View tenants supports tickets about bills, security, maintenance etc
+- [ ] 2. View tenants supports tickets about bills, security, maintenance etc
 - [ ] 1. Manage tenant leases
 - [ ] 5. Print hard copies for filing if needed
 - [ ] 3. Simple and intuitive application
-- [ ] 1. Solution can be customized to add property list and cost accounting
+- [ ] 2. Solution can be customized to add property list and cost accounting
 
 Agents 
 - [ ] Add and manage different user levels
